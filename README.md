@@ -1,2 +1,2 @@
 # Pug-iOS
-Senior capstone project to find and creat pickup basketball games
+An app for basketball player to creatw on the fly pick up games 
